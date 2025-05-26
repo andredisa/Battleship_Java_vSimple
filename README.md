@@ -152,4 +152,4 @@ If you find my work useful and would like to support me, you can buy me a coffee
 
 ---
 
-**Enjoy sinking ships! 🌊🔥 If you like it, give it a ⭐!**
+### Enjoy sinking ships! 🌊🔥 If you like it, give it a ⭐!
