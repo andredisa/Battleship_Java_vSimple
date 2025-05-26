@@ -1,4 +1,4 @@
-# 🚢 Battleship Arcade – Java Edition 🎮
+# 🚢 Battleship Arcade – Java 🎮
 
 >Welcome to **Battleship Arcade**, a stylish and colorful rendition of the classic naval combat game built entirely in **Java Swing**! Get ready to place your fleet and engage in strategic warfare against the AI in a grid-based showdown. ⚓💥
 
