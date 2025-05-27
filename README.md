@@ -4,6 +4,18 @@
 
 ---
 
+## 📷 Screenshots 📷
+<div style="display: flex; justify-content: center;">
+  <table style="width:50%;">
+    <tr>
+      <td style="width:50%;"><img src=".github/images/menu-battle.png" alt="Menu Screenshot" width="300" height="300"></td>
+      <td style="width:50%;"><img src=".github/images/game-battle.png" alt="Game Screenshot" width="300" height="300"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📦 Project Structure
 
 ```bash
